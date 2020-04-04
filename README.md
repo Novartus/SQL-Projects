@@ -1,4 +1,4 @@
-# SQL Analyze Projects
+# SQL Projects
 
 My notebooks to [Datacamp](https://www.datacamp.com/profile/hudaniabhee) projects.
 
